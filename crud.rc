@@ -1,0 +1,4 @@
+icone		ICON	"res\icone.ico"
+grupos		BITMAP	"res\grupos.bmp"
+exit		BITMAP	"res\exit.bmp"
+logo_mysql	PNG	"res\logo_mysql.png"
